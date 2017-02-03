@@ -1,3 +1,3 @@
 # test-devops
-this is test place for devops
-testing configuration management tools
+This is for Infrastructure automation
+Using Ansible for Automation
