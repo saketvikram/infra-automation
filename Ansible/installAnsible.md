@@ -2,7 +2,7 @@
 2 sudo apt-get update <br>
 3 sudo apt-get install ansible
 
-Running Ansible on Ansible host locally
+Running Ansible on Ansible host locally <br>
 1 ansible all -i "localhost," -c local -m shell -a 'echo hello world' <br>
 2 Add an entry for localhost to default inventory file /etc/ansible/hosts: <br>
 localhost ansible_connection=local <br>
