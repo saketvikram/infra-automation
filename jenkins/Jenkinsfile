@@ -33,9 +33,6 @@ pipeline {
                 echo 'Deploying....'
             }
         }
-        stage('Results') {
-     
-     
-   }
+    
     }
 }
