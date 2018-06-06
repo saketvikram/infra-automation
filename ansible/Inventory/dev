@@ -1,0 +1,2 @@
+[testans]
+104.211.92.156 ansible_ssh_user=ops ansible_ssh_pass=manoj@ilimi1

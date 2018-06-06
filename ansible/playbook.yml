@@ -1,0 +1,7 @@
+- hosts: testans
+  
+  roles:
+   
+    - maven
+
+  become: yes
