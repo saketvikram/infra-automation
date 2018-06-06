@@ -1,7 +1,5 @@
 - hosts: testans
-  
-  roles:
-   
+  roles: 
+    - java
     - maven
-
   become: yes
