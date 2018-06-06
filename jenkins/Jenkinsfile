@@ -8,6 +8,8 @@ pipeline {
                 echo 'Building..'
                 chmod +x installdeps.sh
                 ./installdeps.sh 
+                chmod +x setupDocker.sh
+                ./setupDocker.sh
               
 
 
