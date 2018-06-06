@@ -1,4 +1,4 @@
-- hosts: testans
+- hosts: local
   roles: 
     - java
     - maven
